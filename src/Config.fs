@@ -1,7 +1,7 @@
 namespace NodeSim
 
 module Config =
-  let CellSize = 16.
+  let CellSize = 8.
 
   [<Literal>]
   let Width = 768.

@@ -5,6 +5,10 @@
   <ItemGroup>
     <Compile Include="JsInterop.fs" />
     <Compile Include="Config.fs" />
+    <Compile Include="Environment/Coordinate.fs" />
+    <Compile Include="Rendering/Util.fs" />
+    <Compile Include="Rendering/Geometry.fs" />
+    <Compile Include="Entities/Entity.fs" />
     <Compile Include="Grid.fs" />
     <Compile Include="Cursor.fs" />
     <Compile Include="World.fs" />
